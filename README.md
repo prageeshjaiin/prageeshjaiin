@@ -1,6 +1,6 @@
 ![logo](https://github.com/jainpragyeshh28/jainpragyeshh28/blob/main/Google%20iMAGE.jpeg)  
-<h1 align="center">Welcome to my GitHub Profile! 👋, I'm Pragyesh Jain</h1>
-<h3 align="center">Pursuring B.Tech CSE (with Specialization in AI/ML/DL) || Studied at Teerthanker Mahaveer University || Proficient in C & Python ||</h3>
+<h1 align="center">Welcome to my GitHub Profile! 👋, This is Pragyesh Jain</h1>
+<h3 align="center">I am currently pursuing my Bachelor of Technology in Computer Science and Engineering, specializing in Artificial Intelligence, Machine Learning, and Deep Learning from Teerthanker Mahaveer University. Skilled in C, C++, and Python and also have some knowledge of Data Structure and Algorithm.</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -10,19 +10,19 @@
 <p align="left"> <a href="https://www.instagram.com/_the.pragyeshj._/" target="blank"><img src="https://img.shields.io/twitter/follow/_the.pragyeshj._?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="250" height="25"/></a> </p>
 
 
-- 🔭 Currently working on **a new Project**
+- 🔭 Working on **a new Project**
 
 - 🌱 learning **Web Devlopment**.
 
-- 👯 I’m looking to collaborate on **new projects**
+- 👯 I’m looking someone to collaborate on **new projects**
 
 - 👨💻 All of my repositiry are available at [here](https://github.com/jainpragyeshh28?tab=repositories)
 
-- 💬 Ask me **anything about myself or any questions related to my Repositories!**
+- 💬 Ask me **anything about myself or any questions related to my repositories!**
 
 - 📫 **jainpragyeshh@gmail.com** is the way to Contact with me.
 
-- 📄 **I am working to build my Resume**
+- 📄 **Working on build resume**
 
 - ⚡ **Serious Guy.**
 
@@ -31,9 +31,6 @@
 <a href="https://twitter.com/the_pragyeshji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_pragyeshji" height="30" width="40" /></a>
 <a href="https://instagram.com/_the.pragyeshj._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technocrat_ai.jain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jainai-technocrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainai-technocrat" height="30" width="40" /></a>
-<a href="https://kaggle.com/pragyeshjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pragyeshjain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jainprogrammingcolony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainprogrammingcolony" height="30" width="40" /></a>
-<a href="https://replit.com/@insecureaiyourr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="jainprogrammingcolony" height="40" width="45" /></a>
 </p>
 
 
@@ -41,9 +38,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
-<a align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpragyeshh28&show_icons=true&locale=en&layout=compact" alt="jainpragyeshh28" /></p>

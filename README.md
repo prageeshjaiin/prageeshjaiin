@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋, I'm Pragyesh Jain</h1>
+<h1 align="center">Hello👋, I'm Pragyesh Jain</h1>
 <h3 align="center">Machine Learning developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pragyeshx](https://github.com/pragyeshx)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/pragyeshx)
 
 - 💬 Ask me **anything about myself or any questions related to my repositories!**
 
 - 📫 How to reach me **pragyeshx@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pragyeshx](https://www.linkedin.com/in/pragyeshx)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/pragyeshx)
 
 - ⚡ **Serious Guy**
 

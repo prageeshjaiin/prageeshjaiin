@@ -5,7 +5,7 @@
 
 - 💬 Ask me **anything about myself or any questions related to my repositories!**
 
-- 📫 How to reach me **pragyeshx@gmail.com**
+- 📫 How to reach me **prageeshjaiin@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/pragyeshx)
 

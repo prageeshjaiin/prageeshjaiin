@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
 </a>
 
-<a href="https://linkedin.com/in/pragyeshx" target="_blank">
+<a href="https://linkedin.com/in/prageeshjaiin" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
 </a>
 
@@ -31,15 +31,15 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
 </a>
 
-<a href="https://www.codechef.com/users/pragyeshx" target="_blank">
+<a href="https://www.codechef.com/users/prageeshjaiin" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" />
 </a>
 
-<a href="https://www.hackerrank.com/pragyeshx" target="_blank">
+<a href="https://www.hackerrank.com/prageeshjaiin" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" />
 </a>
 
-<a href="https://leetcode.com/pragyeshx" target="_blank">
+<a href="https://leetcode.com/prageeshjaiin" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
 </a>
 

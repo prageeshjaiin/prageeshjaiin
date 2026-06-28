@@ -15,7 +15,7 @@
 
 <p align="left" style="display: flex; gap: 50px; align-items: center;">
 
-<a href="https://twitter.com/jainpragyeshh28" target="_blank">
+<a href="https://twitter.com/prageeshjaiin" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
 </a>
 

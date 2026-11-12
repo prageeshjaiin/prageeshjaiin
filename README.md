@@ -1,15 +1,12 @@
-<h1 align="center">Hello👋, I'm Pragyesh Jain</h1>
+<h1 align="center">Hello, I'm Pragyesh Jain</h1>
 <h3 align="center">Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/prageeshjaiin)
+- 💬 You can ask me **anything about myself or any questions related to my repositories!**
 
-- 💬 Ask me **anything about myself or any questions related to my repositories!**
+- 📫 How to reach me
+**pragyeshjain27@gmail.com** **prageeshjaiin@gmail.com**
 
-- 📫 How to reach me **prageeshjaiin@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/prageeshjaiin)
-
-- ⚡ **Serious Guy**
+- 📄 Connect with me on [Linkedin](https://www.linkedin.com/in/prageeshjaiin)
 
 <h3 align="left">Connect with me:</h3>
 

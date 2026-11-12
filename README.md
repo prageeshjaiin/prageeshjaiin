@@ -7,20 +7,17 @@
 
 ---
 
-- 🔭 **Currently working as:** Java Developer at **Strive Code Technologies**[span_0](start_span)[span_0](end_span)
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (AI, ML & DL) at **Teerthanker Mahaveer University**[span_1](start_span)[span_1](end_span)
-- 🛠️ **Core Focus:** Backend Engineering, Spring Boot REST APIs, Relational Database Modeling (MySQL/JPA), and Real-Time Web Applications[span_2](start_span)[span_2](end_span)
-- 👨‍💻 **Portfolio & Code:** Explore my repositories at [GitHub](https://github.com/prageeshjaiin)[span_3](start_span)[span_3](end_span)
-- 📄 **Experience & Network:** Connect on [LinkedIn](https://www.linkedin.com/in/prageeshjaiin)[span_4](start_span)[span_4](end_span)
-- 📫 **Reach me at:** **pragyeshjain28@gmail.com**[span_5](start_span)[span_5](end_span)
+- 🔭 **Currently working as:** Java Developer at **Strive Code Technologies**
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (AI, ML & DL) at **Teerthanker Mahaveer University**
+- 🛠️ **Core Focus:** Backend Engineering, Spring Boot REST APIs, Relational Database Modeling (MySQL/JPA), and Real-Time Web Applications
+- 👨‍💻 **Portfolio & Code:** Explore my repositories at [GitHub](https://github.com/prageeshjaiin)
+- 📄 **Experience & Network:** Connect on [LinkedIn](https://www.linkedin.com/in/prageeshjaiin)
+- 📫 **Reach me at:** **pragyeshjain28@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/prageeshjaiin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/prageeshjaiin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>&nbsp;&nbsp;

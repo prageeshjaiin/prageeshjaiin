@@ -40,15 +40,13 @@
 
 ---
 
-### 💻 Languages, Frameworks & Tools:
+### 💻 Tech Stack & Tools:
 
-**Languages**
+**Languages & Databases**
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript (ES6+)" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 </p>
@@ -56,20 +54,20 @@
 **Frameworks & Backend**
 <p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" height="32"/></a>&nbsp;&nbsp;
   <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate ORM" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="32"/></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" height="32"/></a>&nbsp;&nbsp;
   <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="32"/></a>&nbsp;&nbsp;
+  <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="32"/></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" height="32"/>
 </p>
 
-**Developer Tools & Platforms**
+**Developer Tools**
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 </p>
 
@@ -77,29 +75,14 @@
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🛒 E-Commerce Web Application</h4>
-      <p align="center">
-        <code>Java 17</code> • <code>Spring Boot</code> • <code>Spring Security</code> • <code>JWT</code> • <code>MySQL</code>[span_6](start_span)[span_6](end_span)
-      </p>
-      <ul>
-        <li><b>Backend API:</b> Built 19+ REST endpoints across 5 controllers with <code>@CrossOrigin</code> support and tuned JPA/Hibernate eager & lazy fetch strategies across a normalized 7-table MySQL schema[span_7](start_span)[span_7](end_span).</li>
-        <li><b>Admin & Security:</b> Engineered a 3-module admin dashboard (Products, Orders, Sales) protected by JWT authentication and Role-Based Access Control (RBAC)[span_8](start_span)[span_8](end_span).</li>
-        <li><b>Dynamic Storefront:</b> Crafted real-time product search, AJAX category filtering, <code>localStorage</code> cart persistence, and guest checkout[span_9](start_span)[span_9](end_span).</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🎨 <a href="https://github.com/prageeshjaiin/skribbl-multiplayer-game">Skribbl Multiplayer Game</a></h4>
-      <p align="center">
-        <code>Node.js</code> • <code>WebSockets</code> • <code>JavaScript</code> • <code>HTML5 Canvas</code> • <code>CSS3</code>
-      </p>
-      <ul>
-        <li><b>Real-Time Sync:</b> Built a low-latency multiplayer drawing and guessing engine using WebSockets to broadcast live canvas strokes, room state, and player turns instantaneously.</li>
-        <li><b>Game Loop & Scoring:</b> Implemented automated round timers, dynamic word selection, real-time chat guess validation, and streak-based score calculation.</li>
-        <li><b>Room Architecture & Testing:</b> Engineered multi-room session management with automated test coverage and cloud deployment.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🛒 E-Commerce Web Application
+**Tech Stack:** `Java 17` • `Spring Boot` • `Spring Security` • `JWT` • `JPA / Hibernate` • `MySQL` • `JavaScript`
+- **Backend Architecture:** Built 19+ REST endpoints across 5 controllers with `@CrossOrigin` support and optimized JPA/Hibernate eager and lazy fetch strategies across a normalized 7-table MySQL schema.
+- **Security & Admin Portal:** Engineered a 3-module admin dashboard (Products, Orders, Sales) secured with JWT authentication and Role-Based Access Control (RBAC).
+- **Dynamic Storefront:** Developed real-time product search, AJAX-based category filtering, `localStorage` cart persistence, and a guest checkout workflow.
+
+#### 🎨 [Skribbl Multiplayer Game](https://github.com/prageeshjaiin/skribbl-multiplayer-game)
+**Tech Stack:** `Node.js` • `WebSockets` • `JavaScript` • `HTML5 Canvas` • `CSS3`
+- **Real-Time Sync:** Built a low-latency multiplayer drawing and guessing engine using WebSockets to broadcast live canvas strokes, room state, and player turns instantaneously.
+- **Game Loop & Scoring:** Implemented automated round timers, dynamic word selection, real-time chat guess validation, and streak-based score calculation.
+- **Room Architecture & Testing:** Engineered multi-room session management with automated test coverage and cloud deployment.

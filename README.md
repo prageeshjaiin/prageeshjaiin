@@ -7,12 +7,12 @@
 
 ---
 
-- 🔭 **Currently working as:** Java Developer at **Strive Code Technologies**
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (AI, ML & DL) at **Teerthanker Mahaveer University**
-- 🛠️ **Core Focus:** Backend Engineering, Spring Boot Microservices/APIs, Relational Database Modeling (MySQL/JPA), and Web Security
-- 👨‍💻 **Portfolio & Code:** Explore my repositories at [GitHub](https://github.com/prageeshjaiin)
-- 📄 **Experience & Network:** Connect on [LinkedIn](https://www.linkedin.com/in/prageeshjaiin)
-- 📫 **Reach me at:** **pragyeshjain28@gmail.com**
+- 🔭 **Currently working as:** Java Developer at **Strive Code Technologies**[span_0](start_span)[span_0](end_span)
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (AI, ML & DL) at **Teerthanker Mahaveer University**[span_1](start_span)[span_1](end_span)
+- 🛠️ **Core Focus:** Backend Engineering, Spring Boot REST APIs, Relational Database Modeling (MySQL/JPA), and Application Security[span_2](start_span)[span_2](end_span)
+- 👨‍💻 **Portfolio & Code:** Explore my repositories at [GitHub](https://github.com/prageeshjaiin)[span_3](start_span)[span_3](end_span)
+- 📄 **Experience & Network:** Connect on [LinkedIn](https://www.linkedin.com/in/prageeshjaiin)[span_4](start_span)[span_4](end_span)
+- 📫 **Reach me at:** **pragyeshjain28@gmail.com**[span_5](start_span)[span_5](end_span)
 
 ---
 
@@ -48,34 +48,60 @@
 **Languages**
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript (ES6+)" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 </p>
 
-**Backend, Databases & DevOps Tools**
+**Frameworks & Backend**
 <p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" height="32"/></a>&nbsp;&nbsp;
+  <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate ORM" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="32"/></a>&nbsp;&nbsp;
+  <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="32"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" height="32"/>
 </p>
 
-**Data Science & Machine Learning**
+**Developer Tools & Platforms**
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-* **E-Commerce Web Application** — Full-stack commerce platform built with **Java 17, Spring Boot, Spring Security (JWT & RBAC), JPA/Hibernate, and MySQL** featuring a 3-module admin portal, real-time search, and guest checkout[span_5](start_span)[span_5](end_span).
-* **Voting Web Application** — Secure election system engineered with **Spring Boot, Spring Security (BCrypt & 6-role RBAC), Thymeleaf, and Hibernate** across 10+ tables with KYC verification, IP tracking, and dual-layer audit logging[span_6](start_span)[span_6](end_span).
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🛒 E-Commerce Web Application</h4>
+      <p align="center">
+        <code>Java 17</code> • <code>Spring Boot</code> • <code>Spring Security</code> • <code>JWT</code> • <code>MySQL</code>[span_6](start_span)[span_6](end_span)
+      </p>
+      <ul>
+        <li><b>Backend API:</b> Built 19+ REST endpoints across 5 controllers with <code>@CrossOrigin</code> support and tuned JPA/Hibernate eager & lazy fetch strategies across a normalized 7-table MySQL schema[span_7](start_span)[span_7](end_span).</li>
+        <li><b>Admin & Security:</b> Engineered a 3-module admin dashboard (Products, Orders, Sales) protected by JWT authentication and Role-Based Access Control (RBAC)[span_8](start_span)[span_8](end_span).</li>
+        <li><b>Dynamic Storefront:</b> Crafted real-time product search, AJAX category filtering, <code>localStorage</code> cart persistence, and guest checkout[span_9](start_span)[span_9](end_span).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🗳️ Cryptographic Voting Web Application</h4>
+      <p align="center">
+        <code>Java</code> • <code>Spring Boot</code> • <code>Spring Security</code> • <code>Thymeleaf</code> • <code>Hibernate</code>[span_10](start_span)[span_10](end_span)
+      </p>
+      <ul>
+        <li><b>Access Control:</b> Implemented multi-tier Spring Security RBAC with BCrypt password hashing across 6 distinct user roles[span_11](start_span)[span_11](end_span).</li>
+        <li><b>Data & Audit Architecture:</b> Modeled a 10+ table relational schema managing election lifecycles, KYC verification, and dual-layer audit logging[span_12](start_span)[span_12](end_span).</li>
+        <li><b>Real-Time Threat Detection:</b> Built live security analytics featuring IP tracking, failed-login detection, and duplicate-vote prevention for 100% ballot integrity[span_13](start_span)[span_13](end_span).</li>
+      </ul>
+    </td>
+  </tr>
+</table>

@@ -2,14 +2,14 @@
 <h3 align="center">Java Backend & Full-Stack Software Developer</h3>
 
 <p align="center">
-  Building scalable RESTful APIs, secure RBAC/JWT architectures, and normalized relational databases with Java & Spring Boot.
+  Building scalable RESTful APIs, secure RBAC/JWT architectures, real-time WebSocket systems, and normalized relational databases.
 </p>
 
 ---
 
 - 🔭 **Currently working as:** Java Developer at **Strive Code Technologies**[span_0](start_span)[span_0](end_span)
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (AI, ML & DL) at **Teerthanker Mahaveer University**[span_1](start_span)[span_1](end_span)
-- 🛠️ **Core Focus:** Backend Engineering, Spring Boot REST APIs, Relational Database Modeling (MySQL/JPA), and Application Security[span_2](start_span)[span_2](end_span)
+- 🛠️ **Core Focus:** Backend Engineering, Spring Boot REST APIs, Relational Database Modeling (MySQL/JPA), and Real-Time Web Applications[span_2](start_span)[span_2](end_span)
 - 👨‍💻 **Portfolio & Code:** Explore my repositories at [GitHub](https://github.com/prageeshjaiin)[span_3](start_span)[span_3](end_span)
 - 📄 **Experience & Network:** Connect on [LinkedIn](https://www.linkedin.com/in/prageeshjaiin)[span_4](start_span)[span_4](end_span)
 - 📫 **Reach me at:** **pragyeshjain28@gmail.com**[span_5](start_span)[span_5](end_span)
@@ -61,6 +61,7 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" height="32"/></a>&nbsp;&nbsp;
   <a href="https://hibernate.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate ORM" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="32"/></a>&nbsp;&nbsp;
   <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" height="32"/></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" height="32"/>
@@ -93,14 +94,14 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🗳️ Cryptographic Voting Web Application</h4>
+      <h4 align="center">🎨 <a href="https://github.com/prageeshjaiin/skribbl-multiplayer-game">Skribbl Multiplayer Game</a></h4>
       <p align="center">
-        <code>Java</code> • <code>Spring Boot</code> • <code>Spring Security</code> • <code>Thymeleaf</code> • <code>Hibernate</code>[span_10](start_span)[span_10](end_span)
+        <code>Node.js</code> • <code>WebSockets</code> • <code>JavaScript</code> • <code>HTML5 Canvas</code> • <code>CSS3</code>
       </p>
       <ul>
-        <li><b>Access Control:</b> Implemented multi-tier Spring Security RBAC with BCrypt password hashing across 6 distinct user roles[span_11](start_span)[span_11](end_span).</li>
-        <li><b>Data & Audit Architecture:</b> Modeled a 10+ table relational schema managing election lifecycles, KYC verification, and dual-layer audit logging[span_12](start_span)[span_12](end_span).</li>
-        <li><b>Real-Time Threat Detection:</b> Built live security analytics featuring IP tracking, failed-login detection, and duplicate-vote prevention for 100% ballot integrity[span_13](start_span)[span_13](end_span).</li>
+        <li><b>Real-Time Sync:</b> Built a low-latency multiplayer drawing and guessing engine using WebSockets to broadcast live canvas strokes, room state, and player turns instantaneously.</li>
+        <li><b>Game Loop & Scoring:</b> Implemented automated round timers, dynamic word selection, real-time chat guess validation, and streak-based score calculation.</li>
+        <li><b>Room Architecture & Testing:</b> Engineered multi-room session management with automated test coverage and cloud deployment.</li>
       </ul>
     </td>
   </tr>

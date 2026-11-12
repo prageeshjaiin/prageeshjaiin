@@ -4,9 +4,9 @@
 - 💬 You can ask me **anything about myself or any questions related to my repositories!**
 
 - 📫 How to reach me
-**pragyeshjain27@gmail.com** **prageeshjaiin@gmail.com**
+**pragyeshjain28@gmail.com** **prageeshjaiin@gmail.com**
 
-- 📄 Connect with me on [Linkedin](https://www.linkedin.com/in/prageeshjaiin)
+- 📄 Can Connect [Linkedin](https://www.linkedin.com/in/prageeshjaiin)
 
 <h3 align="left">Connect with me:</h3>
 

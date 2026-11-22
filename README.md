@@ -9,7 +9,7 @@
 
 - 🔭 **Currently working as:** Java Developer at **Strive Code Technologies**
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (AI, ML & DL) at **Teerthanker Mahaveer University**
-- 🏆 **Recognition:** Selected in TMU's **"Super 50" Cohort** (Top 50 final-year students across the university via Pod.ai technical assessment)[cite: 37, 38]
+- 🏆 **Recognition:** Selected in TMU's **"Super 50" Cohort** (Top 50 final-year students across the university via Pod.ai technical assessment)
 - 🛠️ **Core Focus:** Backend Engineering, Spring Boot REST APIs, Relational Database Modeling (MySQL/JPA), and Real-Time Web Applications
 - 👨‍💻 **Portfolio & Code:** Explore my repositories at [GitHub](https://github.com/prageeshjaiin)
 - 📄 **Experience & Network:** Connect on [LinkedIn](https://www.linkedin.com/in/prageeshjaiin)

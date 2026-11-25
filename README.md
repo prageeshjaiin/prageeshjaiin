@@ -89,4 +89,3 @@
 - **Real-Time Sync:** Built a low-latency multiplayer drawing and guessing engine using WebSockets to broadcast live canvas strokes, room state, and player turns instantaneously.
 - **Game Loop & Scoring:** Implemented automated round timers, dynamic word selection, real-time chat guess validation, and streak-based score calculation.
 - **Room Architecture & Testing:** Engineered multi-room session management with automated test coverage and cloud deployment.
-
